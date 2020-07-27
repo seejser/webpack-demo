@@ -1,7 +1,7 @@
 <!--
  * @Author:dapeng
  * @Date: 2020-07-27 13:43:31
- * @LastEditTime: 2020-07-27 14:09:17
+ * @LastEditTime: 2020-07-27 14:17:37
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /webpack-demo/README.md
@@ -22,13 +22,14 @@
 
 - 支持打包后预览
 
-- 支持开发环境热更新（浏览器字段刷新）
+- 支持开发环境热更新（浏览器自动刷新）
 
 - 支持 es6转es5
 
-- 使用source-map追踪源代码错误
+- 支持 source-map追踪源代码错误
 
-- source-map追踪源代码错误
+- 可以yarn add 或者 npm installl 安装依赖 ，eg:yarn add vue/npm install vue 安装vue最新稳定版
+
 
 - 可以使用ejs实现模板化（待实现）
 
