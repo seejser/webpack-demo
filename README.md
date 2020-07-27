@@ -1,7 +1,7 @@
 <!--
  * @Author:dapeng
  * @Date: 2020-07-27 13:43:31
- * @LastEditTime: 2020-07-27 13:56:48
+ * @LastEditTime: 2020-07-27 14:09:17
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /webpack-demo/README.md
@@ -10,13 +10,13 @@
 
 ## 支持功能
 
-- 已集成 jQuery ,全部使用，并分离单独打包
+- 已集成 jQuery ,全局使用，并分离单独打包
 
-- 支持多页面 在html添加
+- 支持多页面 可以在html文件夹下添加页面
 
 - 支持css图片和html图片
 
-- 支持css,sass,less,支持文件分离
+- 支持css,sass,less,并支持文件分离
 
 - 支持开发环境和生产环境
 
